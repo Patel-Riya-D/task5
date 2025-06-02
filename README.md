@@ -84,7 +84,8 @@ The goal of this task is to learn and apply tree-based classification models —
 ---
 
 ### 3. Random Forest Feature Importances
-![Feature Importances](feature_importance.png)
+![image](https://github.com/user-attachments/assets/30cde940-77e0-46f3-a6fd-5a7194e382c8)
+
 
 - Most important features:
   - `cp` (chest pain)
