@@ -74,7 +74,8 @@ The goal of this task is to learn and apply tree-based classification models —
 ---
 
 ### 2. Decision Tree Structure
-![Decision Tree](decision_tree.png)
+![image](https://github.com/user-attachments/assets/d947bdd3-4321-42b3-a3a7-bd6a9423c042)
+
 
 - Shows how splits are made on features like `ca`, `thal`, `cp`
 - Color-coded nodes indicate predicted class
