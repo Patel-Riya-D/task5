@@ -65,7 +65,8 @@ The goal of this task is to learn and apply tree-based classification models —
 ## 📊 Visualizations
 
 ### 1. Overfitting Analysis
-![Overfitting Analysis](overfitting_plot.png)
+![image](https://github.com/user-attachments/assets/d69ce33b-c3ca-4fdd-942e-ee9e73df4916)
+
 
 - Training accuracy reaches 100% at depth > 10
 - Test accuracy plateaus at ~98% around depth 9–10
